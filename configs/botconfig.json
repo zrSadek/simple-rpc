@@ -1,0 +1,13 @@
+{
+	"clientID": "clientID",
+	"details": "hey",
+	"state": "lol",
+	"largeImageKey": "large1",
+	"largeImageText": "xd",
+	"smallImageKey": "large1",
+	"smallImageText": "xd",
+	"label1": "button 1",
+	"url1": "link 1",
+	"label2": "button 2",
+	"url2": "link 2"
+}
